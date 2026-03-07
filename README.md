@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Rob 👋
 
-<!--
-**rob-ny-prompt/rob-ny-prompt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NYC-based AI Prompt Engineer & Freelancer  
+Specializing in few-shot prompting, summarization, chatbot refinement, iterative content, and data extraction. Flexible, remote work preferred.
 
-Here are some ideas to get you started:
+## Skills
+- Few-shot & Chain-of-Thought Prompting  
+- Structured Outputs (tables, lists, JSON)  
+- Iterative Refinement & Optimization  
+- Summarization & Content Generation  
+- Competitor Pricing / Data Analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Projects
+1. **Stock Market Summarization** — Reduced length 60%, accuracy +40%  
+   [Case Study PDF](link-to-your-pdf)  
+
+2. **Few-Shot Survival Guide** — 100% key tips coverage  
+   [View →](link)
+
+(Add the other three similarly – upload PDFs/screenshots to the repo and link them!)
+
+## Contact
+- Email: your@email.com  
+- Upwork: [your-profile-link]  
+- LinkedIn: [link]  
+
+Built with persistence in NYC | Updated March 2026
